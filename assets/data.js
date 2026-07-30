@@ -64,25 +64,7 @@ var PROJECTS = [
       "https://cdnb.artstation.com/p/assets/images/images/097/016/073/medium/r0kur0-concept-game.webp?1772962515",
       "https://cdnb.artstation.com/p/assets/images/images/097/016/081/medium/r0kur0-screenshot-2026-03-08-173647.webp?1772962616"
     ]
-  },
-  {
-    title: "Fodegraf",
-    description: "",
-    medium: "Fodegraf Works",
-    year: "",
-    images: [
-      "https://cdnb.artstation.com/p/assets/images/images/100/299/339/medium/r0kur0-screenshot-2026-05-18-101953.webp?1782458736",
-      "https://cdna.artstation.com/p/assets/images/images/100/299/340/medium/r0kur0-screenshot-2026-05-18-101959.webp?1782458741",
-      "https://cdna.artstation.com/p/assets/images/images/100/299/342/medium/r0kur0-screenshot-2026-05-18-102003.webp?1782458748",
-      "https://cdna.artstation.com/p/assets/images/images/100/299/368/medium/r0kur0-v4.webp?1782458848",
-      "https://cdna.artstation.com/p/assets/images/images/100/490/246/medium/r0kur0-photo-display-v1.jpg?1783065901",
-      "https://cdnb.artstation.com/p/assets/images/images/100/490/233/medium/r0kur0-screenshot-2026-07-03-160314.jpg?1783065864",
-      "https://cdnb.artstation.com/p/assets/images/images/100/490/251/medium/r0kur0-photo-display-v2.jpg?1783065908",
-      "https://cdna.artstation.com/p/assets/images/images/100/490/234/medium/r0kur0-screenshot-2026-07-03-160343.jpg?1783065869",
-      "https://cdnb.artstation.com/p/assets/images/images/100/490/253/medium/r0kur0-photo-display-v3.jpg?1783065915",
-      "https://cdnb.artstation.com/p/assets/images/images/100/490/237/medium/r0kur0-screenshot-2026-07-03-160349.jpg?1783065875"
-    ]
-  }
+  },  
 ];
 
 var LINKS = [
