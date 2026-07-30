@@ -3,7 +3,7 @@
 ## Site link
 
 ```js
-  https://r0kur0-git.github.io/portfolio/index.html
+  https://r0kur0-git.github.io/rokuro-portfolio/index.html
 ```
 
 ## Files
