@@ -69,6 +69,12 @@ var PROJECTS = [
 
 var LINKS = [
   {
+    label: "VGen",
+    url: "https://vgen.co/rokuro" },
+  {
+    label: "Twitter",
+    url: "https://twitter.com/rokuro_draws" },
+  {
     label: "Artstation",
     url: "https://www.artstation.com/r0kur0" },
   {
